@@ -18,7 +18,7 @@
 - 👨‍💻 Interface responsive pour réservation, gestion d’événements et scan de billets
 - 🧩 Gestion de projet agile (Scrum Master)
 -  📂 [Voir le projet:application Web](https://github.com/mohamedhou/GooEvent.git)
--  📂 [Voir le projet:application Mobile de scanne](Application Mobile se scanne : https://github.com/mohamedhou/App_Scan_GOOEvent-.git)
+-  📂 [Voir le projet:application Mobile de scanne](https://github.com/mohamedhou/App_Scan_GOOEvent-.git)
 
 ### 📚 Gestion de Bibliothèque (Web App)
 - 📍 Techs : Django, MySQL
