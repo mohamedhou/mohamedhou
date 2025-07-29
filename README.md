@@ -30,6 +30,12 @@
 - 📅 Planification intelligente des jurys, gestion de disponibilités
 - 📂 [Voir le projet](https://github.com/mohamedhou/application-de-gestion-des-soutenance-.git)
 
+### 🎓 Système de Gestion des Employes
+- 📍 Techs : Python, Spring Boot, Thymeleaf, FullCalendar.js
+- 📅 Planification intelligente des jurys, gestion de disponibilités
+- 📂 [Voir le projet](https://github.com/mohamedhou/App_gestion_EMployer_SB.git)
+
+
 ---
 
 ## 🛠️ Compétences Techniques
