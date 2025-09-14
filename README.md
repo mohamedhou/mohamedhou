@@ -11,7 +11,7 @@
 ### 🔤 Traducteur Langue des Signes – CNN + LSTM
 - 📍 Techs : Python, PyTorch, OpenCV, MediaPipe
 - 🎯 Traduction temps réel de la LSM en texte avec une précision de **96%**
-- 📂 [Voir le projet]([https://github.com/MohamedHou/lsm-translator](https://github.com/mohamedhou/Real-Time-Moroccan-Sign-Language-Translator.git))
+- 📂 [Voir le projet]([https://github.com/MohamedHou/lsm-translator](https://github.com/mohamedhou/Real-Time-Moroccan-Sign-Language-Translator.git)
 
 ### 🎫 Application de Billetterie Web(GooEvent)
 - 📍 Techs : WinDev, WebDev, WinDevMobile  ,,,  Methode Scrum
