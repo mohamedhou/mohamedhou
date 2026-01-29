@@ -20,10 +20,10 @@
 -  📂 [Voir le projet:application Web](https://github.com/mohamedhou/GooEvent.git)
 -  📂 [Voir le projet:application Mobile de scanne](https://github.com/mohamedhou/App_Scan_GOOEvent-.git)
 
-### 📚 Gestion de Bibliothèque (Web App)
-- 📍 Techs : Django, MySQL
-- 📖 Module de catalogue, emprunts, notifications de retard, interface admin
-- 📂 [Voir le projet](https://github.com/MohamedHou/bibliotheque-django)
+//### 📚 Gestion de Bibliothèque (Web App)
+//- 📍 Techs : Django, MySQL
+//- 📖 Module de catalogue, emprunts, notifications de retard, interface admin
+//- 📂 [Voir le projet](https://github.com/MohamedHou/bibliotheque-django)
 
 ### 🎓 Système de Gestion des Soutenances
 - 📍 Techs : Python, Spring Boot, Thymeleaf, FullCalendar.js
